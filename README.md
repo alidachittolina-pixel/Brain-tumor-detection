@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1e3d,50:1466a8,100:2ec6d6&height=220&section=header&text=Brain%20Tumour%20Detection&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=YOLOv7-tiny%20vs%20YOLOv8n%20on%20T1%20MRI%20Slices&descAlignY=58&descSize=17&descColor=bfeaf5" width="100%"/>
 
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="260"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=1466A8&center=true&vCenter=true&width=720&lines=YOLOv7-tiny+%F0%9F%86%9A+YOLOv8n;Glioma+%E2%80%A2+Meningioma+%E2%80%A2+Pituitary;3%2C064+MRI+slices+%C2%B7+233+patients;Patient-level+split+%C2%B7+held-out+test+set" width="720"/>
 
 ### 🧠 A controlled comparison of two compact CNN detectors for localizing and classifying brain tumours in contrast-enhanced T1 MRI 🩺
 
@@ -158,4 +158,3 @@ Within the limits of this dataset and design, **YOLOv8n was the stronger detecto
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ec6d6,50:1466a8,100:0b1e3d&height=120&section=footer" width="100%"/>
 
 </div>
-
